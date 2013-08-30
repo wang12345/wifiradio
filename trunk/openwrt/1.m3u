@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:0,SLAY Radio
+http://relay3.slayradio.org:8000/
+#EXTINF:0,FREQUENCE3 - www.frequence3.fr - It's only HITS live from Paris France ! - French Webradio
+http://ice.stream.frequence3.net/frequence3-128.mp3
+#EXTINF:0,Dance.FM :: The Beat of Amsterdam ::
+http://81.173.24.2/;stream.nsv
+#EXTINF:0,RockRadio1.Com - Classic Hard Rock and Heavy Metal Mix, 24/7 Live Requests / www.rockradio1.com
+http://87.98.146.216:8000/
+#EXTINF:0,NOISEfm.pl - NOISEfm.pl - Niezalezne Radio Rock !
+http://stream01.noisefm.pl:8000/
+#EXTINF:0,ABetterClassicRockStation
+http://listen.radionomy.com/a-better-classic-rock-station
+#EXTINF:0,Underground Eighties: UK Synthop and a bit of New Wave. [SomaFM]
+http://sfstream1.somafm.com:8884
+#EXTINF:0,LoungeFM
+http://cast.radiogroup.com.ua:8000/loungefm
+#EXTINF:0,LOUNGE-RADIO.COM - swiss made
+http://www.lounge-radio.com:8080/
+#EXTINF:0,Venice Classic Radio Italia
+http://109.123.116.202:8020
+#EXTINF:0,STAR FM Nuernberg MAXIMUM ROCK!
+http://91.250.82.237:8004
+#EXTINF:0,PANDASHOWRADIO.COM - Pranks in spanish, live from Mexico City, feat. El Panda Zambrano.
+http://173.193.138.136:7050
+#EXTINF:0,Radio Classique 
+http://broadcast.infomaniak.net/radioclassique-high.mp3
+http://music.myradio.ua/italjanskaja-muzyka_news128.mp3?v=54
+http://music.myradio.ua/Disco128.mp3
+#EXTINF:0,181.fm - Awesome 80's
+http://uplink.duplexfx.com:8000/
+#EXTINF:0,181.FM - Lite 80's
+http://uplink.duplexfx.com:8040/
+#EXTINF:0,ABetter80sStation
+http://listen.radionomy.com/a-better-80s-station
+#EXTINF:0,181.FM - Good Time Oldies
+http://uplink.duplexfx.com:8046/
+#EXTINF:0,RetroFM
+http://cast.radiogroup.com.ua:8000/retro
+#EXTINF:0,Amazing Smooth and Jazz
+http://uk1.internet-radio.com:4086/
+#EXTINF:0,ABetterSlowJamsStation
+http://listen.radionomy.com/a-better-slow-jams-station
+#EXTINF:0,RMNradio....Music Fun and More!
+http://stream.dasweihnachtsradio.de:8090/
+#EXTINF:0,Nirvana Radio - Music for Meditation and Relaxation
+http://sc9106.xpx.pl:9106/
+#EXTINF:0,ABetterLoveSongsStation
+http://listen.radionomy.com/a-better-love-songs-station
+#EXTINF:0,Nostalgie Premium 128K
+http://mp3.live.tv-radio.com/nostalgie/all/nos_113812.mp3
+#EXTINF:0,Nosta Best Of 60 128K
+http://mp3.live.tv-radio.com/nostalgie_best_of_sixties/all/nos_174945.mp3
+#EXTINF:0,Nostalgie Best Of 70 128K
+http://mp3.live.tv-radio.com/nostalgie_best_of_seventies/all/nos_175440.mp3
+#EXTINF:0,Nosta Best Of 80 128K
+http://mp3.live.tv-radio.com/nostalgie_best_of_eighties/all/nos_172115.mp3
+#EXTINF:0,Nosta Chanson FR 128K
+http://mp3.live.tv-radio.com/nostalgie_chansons_francaises/all/nos_174706.mp3
+#EXTINF:0,Nosta Slow de Legende 128K
+http://mp3.live.tv-radio.com/nostalgie_slow_legend/all/nos_173315.mp3
+#EXTINF:0,Nosta Rock 128K
+http://mp3.live.tv-radio.com/nostalgie_rock/all/nos_145822.mp3
+#EXTINF:0,Nosta Disco 128K
+http://mp3.live.tv-radio.com/nostalgie_disco/all/nos_172319.mp3
+#EXTINF:0,Nosta 100 Legendes 128K
+http://mp3.live.tv-radio.com/nostalgie_top_100/all/nos_180225.mp3
