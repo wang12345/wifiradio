@@ -1,0 +1,27 @@
+vi ~/.mpd/mpc_update.sh
+---
+#! /bin/sh -
+rm ~/.mpd/downloads/1.m3u
+wget -P ~/.mpd/downloads  <<<ссылка на файл 1.m3u>>>
+if [ -e ~/.mpd/downloads/1.m3u ];
+then
+rm ~/.mpd/playlists/1.m3u
+cp ~/.mpd/downloads/1.m3u ~/.mpd/playlists/1.m3u
+
+mpc stop
+mpc clear
+mpc load 1
+mpc playlist
+#mpc play
+#cat ~/.mpd/playlists/1.m3u
+
+sleep 2
+echo ""
+echo "MPC playlist updated (!!!UPDATE)"
+
+else
+sleep 2
+echo "Nothing to update (!!!U_ERROR)"
+fi
+---
+chmod a+x ~/.mpd/mpc_update.sh
