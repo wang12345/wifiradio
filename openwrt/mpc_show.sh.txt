@@ -1,0 +1,5 @@
+root@OpenWrt:~/.mpd# cat mpc_show.sh
+#! /bin/sh -
+echo "status" | nc localhost 6600
+echo "currentsong" | nc localhost 6600
+root@OpenWrt:~/.mpd#
