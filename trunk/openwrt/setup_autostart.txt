@@ -1,0 +1,16 @@
+vi /etc/init.d/saybootdone
+---
+
+#!/bin/sh /etc/rc.common
+
+START=99
+
+boot()
+{
+   sleep 5
+   echo "---!!!BOOTDONE!!!---">dev/console
+}
+
+---
+
+chmod a+x saybootdone
