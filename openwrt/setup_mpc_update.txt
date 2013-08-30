@@ -2,7 +2,7 @@ vi ~/.mpd/mpc_update.sh
 ---
 #! /bin/sh -
 rm ~/.mpd/downloads/1.m3u
-wget -P ~/.mpd/downloads  <<<ссылка на файл 1.m3u>>>
+wget -P ~/.mpd/downloads  <<<link on 1.m3u file>>>
 if [ -e ~/.mpd/downloads/1.m3u ];
 then
 rm ~/.mpd/playlists/1.m3u
